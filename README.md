@@ -16,13 +16,11 @@ The code can be run using the following Google Colab [link](https://colab.resear
 
 # Example:
 
-## Content Image:
-<img src="https://github.com/Fast-and-curious4/neural-style-transfer/assets/77771355/d751edfb-8e68-44da-a779-68f84faabdc5" width="500" height="500">         
+| Content Image                       | Style Image                         |
+| ----------------------------------- | ----------------------------------- |
+| <img src="https://github.com/Fast-and-curious4/neural-style-transfer/assets/77771355/d751edfb-8e68-44da-a779-68f84faabdc5" width="500" height="500"> | <img src="https://github.com/Fast-and-curious4/neural-style-transfer/assets/77771355/f8d3cb69-bf2d-41de-8cf8-47af99633683" width="500" height="500"> |
 
-## Style Image:
-<img src="https://github.com/Fast-and-curious4/neural-style-transfer/assets/77771355/f8d3cb69-bf2d-41de-8cf8-47af99633683" width="500" height="500">
-
-## Output Image (After 1000 iterations):
-<img src="https://github.com/Fast-and-curious4/neural-style-transfer/assets/77771355/fd0e5748-461b-4bd4-9e73-6d758ada8e5c" width="500" height="500">
-
-
+<h3 align='center'>Output Image (After 1000 iterations)</h3>
+<p align='center'>
+<img src="https://github.com/Fast-and-curious4/neural-style-transfer/assets/77771355/adcbc85a-8e16-4edc-ae04-02cf9cafa9ec" width="500" height="500">
+</p>
